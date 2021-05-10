@@ -1,1 +1,1 @@
-# Grafika-i-komunikacja-lab8
+Program został wykonany w c#. Należy wybrać obrazek za pomocą przycisk. Zaleca się wybranie małego obrazka, ponieważ algorytm krócej go przetważa. Zostały zaimplementowane wszystkie wymagane funkcje. Po załadowaniu obrazka należy wybrać sposób przetwarzania poprzez przycisk typu radio oraz następnie zatwierdzić przyciskiem znajdującym się po prawej stronie.
